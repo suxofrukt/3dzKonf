@@ -1,0 +1,5 @@
+{- Это комментарий -}
+(define PI 3.14159)
+data = [name => "John", age => 30]
+numbers = #(1 2 #(4 5 6) 7)
+greeting = @"Hello, world!"
